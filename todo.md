@@ -9,6 +9,7 @@
   - cost: 1000
 + **drop**  
   - cost: 3000
+  - tire Size: 31x10.50R15 
 + **hard top**  
   - cost: 2000 
 + **doors with windows**  
