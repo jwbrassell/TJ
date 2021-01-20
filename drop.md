@@ -71,4 +71,23 @@ Parts needed:
 Current Tire Size:
 + 33x12.50R15LT
 
+
+31" tires
+800
+TRAIL COUNTRY EXP - SIZE: 31X10.5R15LT
+https://www.tirerack.com/tires/tires.jsp?tireMake=Dick+Cepek&tireModel=Trail+Country+EXP&partnum=105QR5TCEOWL&i1_Qty=4
+
 brand wheel: halo 
+
++ Front and rear track bars.
++ Front and rear anti-swaybars links. 
++ Front and rear coil springs.
++ Front and rear shock absorbers. 
++ Front and rear upper and lower control arms. 
+
+
+
+
++ Transfer case lowering spacers??? 
+Or SYE and DC driveshaft??? 
+These are just educated guesses. It depends on how complete the current 4 inch lift is. Post pics of your current lift setup and we can help more.
